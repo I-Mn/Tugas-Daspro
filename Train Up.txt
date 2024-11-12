@@ -1,0 +1,21 @@
+Kautsar Muhammad Mizan
+6 - Nexus
+2404073
+
+
+P = Suami
+I = Istri
+P1 dan I1 ke perahu
+Perahu menyebrang lalu P1 turun ke sisi akhir
+I1 membawa kembali perahu ke sisi awal
+I2 naik ke perahu
+Perahu menyebrang lalu I1 turun ke sisi akhir
+I2 membawa kembali perahu ke sisi awal
+P2 naik ke perahu
+Perahu menyebrang lalu P2 turun ke sisi akhir
+I2 membawa kembali perahu ke sisi awal
+I3 naik ke perahu
+Perahu menyebrang lalu I2 turun ke sisi akhir
+I3 membawa kembali perahu ke sisi awal
+P3 naik ke perahu
+Perahu menyebrang lalu I3 dan P3 turun ke sisi akhir

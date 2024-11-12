@@ -1,0 +1,244 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
+  <diagram id="pcRdjEUyc-mkSTu7bfPG" name="Page-1">
+    <mxGraphModel dx="1146" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-46" target="w3SrHX5hoLCAWVKH8G3c-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="945" />
+              <mxPoint x="330" y="990" />
+              <mxPoint x="100" y="990" />
+              <mxPoint x="100" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-24" target="w3SrHX5hoLCAWVKH8G3c-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-26" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3SrHX5hoLCAWVKH8G3c-4">
+          <mxGeometry x="-0.3007" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-2" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-3" target="w3SrHX5hoLCAWVKH8G3c-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-7" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3SrHX5hoLCAWVKH8G3c-6">
+          <mxGeometry x="-0.0508" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-3" target="w3SrHX5hoLCAWVKH8G3c-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3SrHX5hoLCAWVKH8G3c-19">
+          <mxGeometry x="0.1652" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-3" value="Jumlah suami dan &lt;br&gt;jumlah istri di sisi &lt;br&gt;akhir = 0 dan jumlah &lt;br&gt;suami dan istri &lt;br&gt;di perahu = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-5" target="w3SrHX5hoLCAWVKH8G3c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-5" value="Memindahkan suami&lt;br&gt;pertama ke perahu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-8" target="w3SrHX5hoLCAWVKH8G3c-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-8" value="Memindahkan istri&lt;br&gt;pertama ke perahu" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-10" target="w3SrHX5hoLCAWVKH8G3c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-10" value="Output suami&lt;br&gt;pertama&lt;br&gt;menyebrang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-41" target="w3SrHX5hoLCAWVKH8G3c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-12" value="Output istri&lt;br&gt;pertama&lt;br&gt;menyebrang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.21;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-14" target="w3SrHX5hoLCAWVKH8G3c-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="920" />
+              <mxPoint x="130" y="920" />
+              <mxPoint x="130" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-14" value="Output hasil&lt;br&gt;sementara" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-18" target="w3SrHX5hoLCAWVKH8G3c-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-23" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3SrHX5hoLCAWVKH8G3c-22">
+          <mxGeometry x="-0.1778" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-18" target="w3SrHX5hoLCAWVKH8G3c-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-18" value="Jumlah suami&lt;br&gt;sama dengan&lt;br&gt;jumlah istri" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="255" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-21" target="w3SrHX5hoLCAWVKH8G3c-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-21" value="Istri yang ada di&lt;br&gt;perahu kembali&lt;br&gt;menuju sisi awal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-2" target="w3SrHX5hoLCAWVKH8G3c-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="80" as="sourcePoint" />
+            <mxPoint x="235" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-24" target="w3SrHX5hoLCAWVKH8G3c-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-29" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3SrHX5hoLCAWVKH8G3c-28">
+          <mxGeometry x="0.0541" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-24" value="Jumlah suami&lt;br&gt;di sisi awal&lt;br&gt;+ jumlah istri&lt;br&gt;di sisi awal&lt;br&gt;&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-27" target="w3SrHX5hoLCAWVKH8G3c-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-27" value="Memindahkan&lt;br&gt;istri terakhir di perahu ke sisi akhir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="125" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-30" target="w3SrHX5hoLCAWVKH8G3c-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-30" value="Mencetak hasil&lt;br&gt;akhir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-32" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="125" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-34" target="w3SrHX5hoLCAWVKH8G3c-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-34" value="Memindahkan suami&lt;br&gt;urutan terawal di sisi&lt;br&gt;awal ke perahu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-36" target="w3SrHX5hoLCAWVKH8G3c-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-36" value="Istri yang di perahu&lt;br&gt;menyebrang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-38" target="w3SrHX5hoLCAWVKH8G3c-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-38" value="Suami yang di&lt;div&gt;perahu&lt;br&gt;menyebrang&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-40" target="w3SrHX5hoLCAWVKH8G3c-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-40" value="Memindahkan&lt;div&gt;suami dari perahu&lt;br&gt;ke sisi akhir&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-12" target="w3SrHX5hoLCAWVKH8G3c-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="790" as="sourcePoint" />
+            <mxPoint x="235" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-41" value="Suami pindah ke&lt;div&gt;sisi akhir&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-46" target="w3SrHX5hoLCAWVKH8G3c-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-53" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w3SrHX5hoLCAWVKH8G3c-52">
+          <mxGeometry x="0.4489" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-46" value="Jumlah suami&lt;br&gt;di sisi awal&lt;br&gt;+ jumlah istri&lt;br&gt;di sisi awal&lt;br&gt;&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="890" width="112.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-51" value="Output hasil&lt;br&gt;sementara" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="w3SrHX5hoLCAWVKH8G3c-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1060" as="sourcePoint" />
+            <mxPoint x="380" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="990" />
+              <mxPoint x="330" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-56" target="w3SrHX5hoLCAWVKH8G3c-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-56" value="Output istri yang&lt;br&gt;ada di perahu&lt;br&gt;kembali menuju&lt;br&gt;sisi awal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-58" target="w3SrHX5hoLCAWVKH8G3c-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-58" value="Memindahkan istri yang lain ke perahu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-60" target="w3SrHX5hoLCAWVKH8G3c-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-60" value="Istri menyebrang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-62" target="w3SrHX5hoLCAWVKH8G3c-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-62" value="Istri yang lain&lt;br&gt;menyebrang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w3SrHX5hoLCAWVKH8G3c-64" target="w3SrHX5hoLCAWVKH8G3c-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-64" value="Memindahkan istri&lt;br&gt;yang dahulu di perahu ke sisi akhir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="260" as="targetPoint" />
+            <mxPoint x="717.5" y="820" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="808" y="820" />
+              <mxPoint x="808" y="250" />
+              <mxPoint x="270" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-66" value="Output hasil&lt;br&gt;sementara" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w3SrHX5hoLCAWVKH8G3c-69" value="KAUTSAR MUHAMMAD MIZAN&lt;br&gt;6 -NEXUS&lt;br&gt;2404073" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
